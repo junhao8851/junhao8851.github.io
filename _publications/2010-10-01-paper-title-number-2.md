@@ -2,8 +2,8 @@
 title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: ''
-date: 2025
+excerpt: '敬请期待'
+date: 2026
 venue: 'unknown Journal'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
