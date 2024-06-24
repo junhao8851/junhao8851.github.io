@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "教育经历"
+  - title: "过程作品"
     url: /publications/
 
   - title: "获奖经历"
     url: /talks/    
 
-  - title: "学习过程"
+  - title: "教育经历"
     url: /teaching/    
     
 
