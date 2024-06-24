@@ -11,9 +11,13 @@ redirect_from:
 
 目前是一位IC制造方向的“研0”，课题方向为刻蚀工艺可视化工具的研发，正在学习coding，请多指教!
 
+------
+------
 
-HOW TO CONTACT ME 
+How to contact me 
 ------
 TEL:+8615123475875/Email:yangjunhao2029@163.com/QQ:827316895/ [Wechat](../images/wechat.jpg) /[Github](https://github.com/junhao8851)
+
+
 
 
