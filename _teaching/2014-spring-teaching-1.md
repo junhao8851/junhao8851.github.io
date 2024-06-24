@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 1"
+title: "本科"
 collection: teaching
-type: "Undergraduate course"
+type: "2019年-2023年"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "西北工业大学，微电子科学与工程"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
